@@ -1,0 +1,61 @@
+cara install React Native:
+npx react-native init namaapp
+
+npm i -g react-native
+npm i -g react-native-cli
+react-native init namaApp
+
+cara menjalakan :
+npx react-native start / metro
+npx react-native run-android
+npx react-native run-ios
+
+pake npm :
+npm start / react-native start
+npm android / react-native run-android
+npm ios / react-native run-ios 
+
+pake yarn :
+npm i -g yarn 
+yarn start
+yarn android
+yarn ios
+
+ektensi yang dibutuhkan :
+Simple React Snippets
+ES7+ React/Redux/React-Native
+auto rename tag
+auto close tag
+auto complete tag
+babel es6/es7
+babel javascript
+color highlight
+css peek 
+DotEnv
+Env
+javascript (ES6) code snippets
+npm
+npm intellesense
+path intellesense
+Prettier
+vscode-icons
+vscode-styled-components
+Bracket Pair Colorizer
+
+
+setting prettier :
+masuk setting 
+ctrl + ,
+
+rnce : membuat kelas component / statefull component
+rnfe : membuat functional component / stateless component
+
+untuk app mirroring android bisa pakai :
+vysor
+
+react ada props dan state
+props : data yang di passing dari parent ke child
+state : data yang di simpan di dalam component
+
+
+
